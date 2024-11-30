@@ -13,7 +13,7 @@ To get started, first clone the repository:
 
 ```bash
 git clone https://github.com/anushree0107/Langchain-Pdf-analysis-with-Google-Generative-AI.git
-cd langchain-pdf-analysis
+cd langchain-pdf-analysis-with-Google-Generative-AI
 ```
 Once the repository is cloned, navigate to the project folder and install the required dependencies:v
 ```bash
