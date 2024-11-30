@@ -12,9 +12,19 @@ This project leverages Langchain, Google Generative AI, and Chroma for performin
 To get started, first clone the repository:
 
 ```bash
-git clone https://github.com/your-username/langchain-pdf-analysis.git
+git clone https://github.com/anushree0107/langchain-pdf-analysis.git
 cd langchain-pdf-analysis
 
 pip install -r requirements.txt
+
+## **Install following packages either through a requirements.txt file or manually:**
+
+langchain
+langchain-google-genai
+chromadb
+PyPDF2
+openai
+google-cloud (if using Google Cloud APIs)
+Other dependencies as needed
 
 
