@@ -14,6 +14,8 @@ To get started, first clone the repository:
 ```bash
 git clone https://github.com/your-username/langchain-pdf-analysis.git
 cd langchain-pdf-analysis
-```bash
 
-## **Example requirements.txt**
+```bash
+pip install -r requirements.txt
+
+
