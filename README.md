@@ -15,19 +15,4 @@ To get started, first clone the repository:
 git clone https://github.com/your-username/langchain-pdf-analysis.git
 cd langchain-pdf-analysis
 
-Install the necessary libraries using pip:
-
-```bash
-pip install -r requirements.txt
-
-
-Make sure that you have the following packages installed (either through a requirements.txt file or manually):
-
-langchain
-langchain-google-genai
-chromadb
-PyPDF2
-openai
-google-cloud (if using Google Cloud APIs)
-Other dependencies as needed
 
