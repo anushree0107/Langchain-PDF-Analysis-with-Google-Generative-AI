@@ -21,12 +21,12 @@ pip install -r requirements.txt
 ```
 ## **Install following packages either through a requirements.txt file or manually:**
 
-langchain
-langchain-google-genai
-chromadb
-PyPDF2
-openai
-google-cloud (if using Google Cloud APIs)
-Other dependencies as needed
+- **`langchain`**
+- **`langchain-google-genai`**
+- **`chromadb`**
+- **`PyPDF2`**
+- **`openai`**
+- **`google-cloud`** (if using Google Cloud APIs)
+- Other dependencies as needed
 
 
